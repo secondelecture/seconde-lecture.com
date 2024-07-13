@@ -62,9 +62,9 @@ timezone: Europe/Paris # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title: Posts # Needed for Siteleaf
+    description:  # Needed for Siteleaf
     output: true
-    description: "L'écho du brouillard" # The post list page content
+    title: "L'écho du brouillard" # The post list page content
     feature_text: |
       L'écho du brouillard
     feature_image: "/assets/NemoNebbia_FB-v2.png"
