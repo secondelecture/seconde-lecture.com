@@ -138,6 +138,7 @@ navigation_footer:
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/NNebbia
   Facebook: https://www.facebook.com/nemo.nebbia/
+  Instagram: https://instagram.com/nemo_nebbia/
   link: https://nemonebbia.fr
   RSS: /feed.xml
 
