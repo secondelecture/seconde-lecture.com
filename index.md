@@ -1,5 +1,5 @@
 ---
-title: About Nemo Nebbia
+title: À Propos
 feature_text: |
   ## Nemo Nebbia
   
