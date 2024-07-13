@@ -67,7 +67,7 @@ collections:
     description: "L'écho du brouillard" # The post list page content
     feature_text: |
       Welcome to the blog
-    feature_image: "https://picsum.photos/2560/600?image=866"
+    feature_image: "/assets/NemoNebbia_FB-v2.png"
 
 # 6. Jekyll collections settings
 defaults:
@@ -75,7 +75,7 @@ defaults:
     scope:
       path: ""
     values:
-      image: "/assets/default-social-image.png" # Default image for sharing
+      image: "/assets/NemoNebbia_FB-v2.png" # Default image for sharing
   -
     scope:
       path: ""
