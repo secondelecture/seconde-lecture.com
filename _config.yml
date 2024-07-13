@@ -123,13 +123,13 @@ navigation_header:
 - title: Home
   url: /
 - title: Actu
-  url: /elements/
+  url: /actu/
 - title: Blog
   url: /blog/
-- title: Project
-  url: /categories/
+- title: Projects
+  url: /projects/
 - title: Discography 
-  url: /categories/
+  url: /disco/
 
 navigation_footer:
 - title: Seconde Lecture
