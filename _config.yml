@@ -96,7 +96,7 @@ title: "Nemo Nebbia" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/NemoNebbia_FB-v2.png" # Site logo, also used in jekyll-seo-tag
 description: "Nemo Nebbia is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
 url: "https://nemonebbia.fr" # Site url, also used in jekyll-seo-tag
-baseurl: ""
+baseurl: "https://simoncarrignon.github.io/nemonebbia/"
 repo: "https://github.com/secondelecture/nemonebbia"
 email: "seconde.lecturee@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
