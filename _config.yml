@@ -128,6 +128,8 @@ navigation_header:
   url: /blog/
 - title: Project
   url: /categories/
+- title: Discography 
+  url: /categories/
 
 navigation_footer:
 - title: Seconde Lecture

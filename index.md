@@ -2,9 +2,9 @@
 title: About Nemo Nebbia
 feature_text: |
   ## Nemo Nebbia
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+  
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Nemo Nebbia is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "Nemo Nebbia, rappeur h:e  a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
 Nemo Nebbia is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
