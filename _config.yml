@@ -66,7 +66,7 @@ collections:
     output: true
     description: "L'écho du brouillard" # The post list page content
     feature_text: |
-      Welcome to the blog
+      L'écho du brouillard
     feature_image: "/assets/NemoNebbia_FB-v2.png"
 
 # 6. Jekyll collections settings
