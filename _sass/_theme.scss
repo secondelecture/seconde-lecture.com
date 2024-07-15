@@ -89,7 +89,7 @@ body {
   background: $headingColour;
   color: $captionColour;
   a {
-    color: $captionColour;
+    color: $hoverColour;
     &:hover {
       color: $backgroundColour;
     }
