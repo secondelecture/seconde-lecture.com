@@ -6,6 +6,7 @@ excerpt: "Nemo Nebbia, rap en suspension, contre vents et marées"
 ---
 
 
+
 {% include figure.html image="/nemonebbia/uploads/nnebiacirejaune.jpg" caption="" %}
 
 <em>Nebbia</em>, c’est le brouillard dans une autre langue. Un climat intérieur d’où risque de s’élever une voix, un texte, un rythme. Du rap. 
@@ -18,4 +19,5 @@ Si vous lisez ce message c’est que vous avez sûrement, dans un passé reculé
 Ce rapide bulletin météo pour vous annoncer une reprise de service imminente accompagnée de vents de secteur Sud-Est avec fortes rafales.
 
 
+xx
 
