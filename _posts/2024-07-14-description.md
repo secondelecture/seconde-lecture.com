@@ -21,3 +21,8 @@ Ce rapide bulletin météo pour vous annoncer une reprise de service imminente a
 
 
 
+
+how to convert image to given width using linux concert command
+
+
+<!-- for s in 16 32 96 120 144 180 512 1024; do convert assets/logos/Nemo-Nebbia_vectorise_noir.png -resize $s assets/logos/logo@${s}px.png ; done -->
