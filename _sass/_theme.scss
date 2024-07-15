@@ -87,9 +87,9 @@ body {
 
 .footer {
   background: $headingColour;
-  color: $hoverColour;
+  color: $lightHoverColour;
   a {
-    color: $hoverColour;
+    color: $lightHoverColour;
     &:hover {
       color: $backgroundColour;
     }
