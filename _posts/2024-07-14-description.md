@@ -7,7 +7,7 @@ feature_image: "/nemonebbia/assets/NEMO_NEBBIA_Vents_Contraires-3000px.jpg"
 ---
 
 
-{% include figure.html image="/nemonebbia/uploads/nnebiacirejaune.jpg" caption="DJ set" %}
+{% include figure.html image="/nemonebbia/uploads/nnebiacirejaune.jpg" caption="C'est pas l'homme qui prend la mer" %}
 
 <em>Nebbia</em>, c’est le brouillard dans une autre langue. Un climat intérieur d’où risque de s’élever une voix, un texte, un rythme. Du rap. 
 <!-- more -->
