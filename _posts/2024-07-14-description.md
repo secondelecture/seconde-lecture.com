@@ -3,7 +3,7 @@ title: N.E.M.O. N.E.B.B.I.A.
 categories:
 - Concert 
 - Actus
-feature_image: "/assets/NemoNebbia_FB-v2.png"
+feature_image: "/nemonebbia/assets/NEMO_NEBBIA_Vents_Contraires-3000px.jpg"
 ---
 
 
