@@ -3,7 +3,7 @@ title: À Propos
 feature_text: |
   ## Nemo Nebbia
   
-feature_image: "/nemonebbia/assets/NemoNebbia_FB-v2.png"
+feature_image: "/nemonebbia/assets/NEMO_NEBBIA_Vents_Contraires-3000px.jpg"
 excerpt: "Nemo Nebbia, rap en suspension, contre vents et marées"
 ---
 
