@@ -67,7 +67,7 @@ collections:
     title: "L'écho du brouillard" # The post list page content
     feature_text: |
       L'écho du brouillard
-    feature_image: "/assets/NemoNebbia_FB-v2.png"
+    feature_image: "nemonebbia/assets/NemoNebbia_FB-v2.png"
 
 # 6. Jekyll collections settings
 defaults:
@@ -75,7 +75,7 @@ defaults:
     scope:
       path: ""
     values:
-      image: "/assets/NemoNebbia_FB-v2.png" # Default image for sharing
+      image: "nemonebbia/assets/NemoNebbia_FB-v2.png" # Default image for sharing
   -
     scope:
       path: ""
