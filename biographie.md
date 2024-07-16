@@ -28,6 +28,8 @@ Nemo Nebbia à ensuite continué l'aventure en solitaire, sortant un premier EP 
 
 C'est aussi à cette periode que tout change. Kaaris sort Or Noir, et moins de deux ans plus tard PNL pointe le bout de son nez avec son premier project QLF. Le rap se transforme et Nemo Nebia attendra 2022 pour revenir y apporte sa touche avec l'EP "Vents Contraires". Cette EP a donné lieu à une résidence au CIEL, a une programmation au festival Cabaret Frappé par Retour de Scène ainsi qu la prmière part de Scylla àl Belle Électrique.
 
+{% include video.html id="y6d8LSsnLEg" %}
+
 En 2024 Nemo prepare son prochain EP ; Soleil Bleu, 5 titre au court desquels ils continue d'explorer ces paysages qu'on traverse en regardant les nuages, qu'on se contruit a l'interieur et qui accompagne nos vies.
 
 
