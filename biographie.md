@@ -1,13 +1,13 @@
 ---
 title: À Propos
 feature_text: |
-feature_image: "/nemonebbia/assets/NEMO_NEBBIA_Vents_Contraires-3000px.jpg"
+feature_image: "/assets/NEMO_NEBBIA_Vents_Contraires-3000px.jpg"
 excerpt: "Nemo Nebbia, rap en suspension, contre vents et marées"
 ---
 
 
 
-{% include figure.html image="/nemonebbia/uploads/nnebiacirejaune.jpg" caption="" %}
+{% include figure.html image="/uploads/nnebiacirejaune.jpg" caption="" %}
 
 <em>Nebbia</em>, c’est le brouillard dans une autre langue. Un climat intérieur d’où risque de s’élever une voix, un texte, un rythme. Du rap. 
 
