@@ -12,10 +12,19 @@
       <li class="item  item--nav{% if item.url == page.url %}  item--current{% endif %}">
         <a href="{{ url }}">{{ item.title }}</a>
       </li>
+      {% for link in site.social_links %}
+        {% if link[1] != blank %}
+          {% assign id = link[0] | downcase %}
+          <li class="item  item--nav{% if item.url == page.url %}  item--current{% endif %}">
+          <a href="{{ link[1] }}">
+            {% include icon.html id=id title=id %}
+          </a>
+      </li>
+        {% endif %}
+      {% endfor %}
     {% endfor %}
   </ul>
 
-  {% include nav-social.html %}
   <button class="button  button--nav" aria-label="Menu toggle">
     {% include icon.html id="nav" title="Menu" %}
   </button>
