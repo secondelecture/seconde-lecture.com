@@ -12,16 +12,16 @@
       <li class="item  item--nav{% if item.url == page.url %}  item--current{% endif %}">
         <a href="{{ url }}">{{ item.title }}</a>
       </li>
-      {% for link in site.social_links %}
-        {% if link[1] != blank %}
-          {% assign id = link[0] | downcase %}
-          <li class="item  item--nav{% if item.url == page.url %}  item--current{% endif %}">
-          <a href="{{ link[1] }}">
-            {% include icon.html id=id title=id %}
-          </a>
-      </li>
-        {% endif %}
-      {% endfor %}
+    {% endfor %}
+    {% for link in site.social_links %}
+      {% if link[1] != blank %}
+        {% assign id = link[0] | downcase %}
+        <li class="item  item--nav{% if item.url == page.url %}  item--current{% endif %}">
+        <a href="{{ link[1] }}">
+          {% include icon.html id=id title=id %}
+        </a>
+       </li>
+      {% endif %}
     {% endfor %}
   </ul>
 
