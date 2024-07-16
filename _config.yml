@@ -124,12 +124,10 @@ navigation_header:
   url: /
 - title: Actu
   url: /actu/
-- title: Blog
+- title: Billets...
   url: /blog/
 - title: Biographie
   url: /biographie/
-- title: Projects
-  url: /projects/
 - title: Discographie
   url: /disco/
 
