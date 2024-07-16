@@ -132,6 +132,8 @@ navigation_header:
 navigation_footer:
 - title: Seconde Lecture
   url: https://nemonebbia.fr
+- title: contact:
+  url: second point lecture (at) gmail point com
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/NNebbia
@@ -141,9 +143,9 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
   RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
-  Twitter: "#0d94e7"
-  facebook: "#3B5998"
-  Email: true
+  Twitter: "#5395bf"
+  facebook: "#5395bf"
+  Email: "#5395bf"
 
 # Load custom fonts from fonts.google.com etc
 #
