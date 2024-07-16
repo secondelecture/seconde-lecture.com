@@ -132,7 +132,7 @@ navigation_header:
 navigation_footer:
 - title: Seconde Lecture
   url: https://nemonebbia.fr
-- title: contact:
+- title: contact 📧
   url: "second point lecture (at) gmail point com"
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
