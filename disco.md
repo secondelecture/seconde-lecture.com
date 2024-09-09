@@ -6,7 +6,7 @@ excerpt: "Nemo Nebbia, rap en suspension, contre vents et marées"
 aside: true
 ---
 
-{% include image-gallery.html folder="/uploads/disco/" %}
+<!-- {% include image-gallery.html folder="/uploads/disco/" %} -->
 
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2299354902/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://nemonebbia.bandcamp.com/album/vents-contraires">Vents Contraires by Nemo Nebbia</a></iframe>
