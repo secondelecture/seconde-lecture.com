@@ -94,7 +94,7 @@ lang: en-GB # Set the site language
 title: "Nemo Nebbia" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/Nemo-Nebbia_vectorise_noir.png" # Site logo, also used in jekyll-seo-tag
 description: " Bienvenue sur le site de Nemo Nebbia, vous trouverez ici toutes les infos liées à l'activité présente et passée du rappeur grenoblois. Et n'hésitez pas à nous suivre sur vos réseaux sociaux préférés !"
-url: "https://nemonebbia.fr" # Site url, also used in jekyll-seo-tag
+url: "https://seconde-lecture.com" # Site url, also used in jekyll-seo-tag
 baseurl: "/"
 realtive_url: "/"
 repo: "https://github.com/secondelecture/nemonebbia"
@@ -131,7 +131,7 @@ navigation_header:
 
 navigation_footer:
 - title: Seconde Lecture
-  url: https://nemonebbia.fr
+  url: https://seconde-lecture.com
 - title:  ✉️
   url: "mailto:second point lecture (at) gmail point com"
 
@@ -139,7 +139,7 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
   Twitter: https://twitter.com/NNebbia
   Facebook: https://www.facebook.com/nemo.nebbia/
   Instagram: https://instagram.com/nemo_nebbia/
-    #link: https://nemonebbia.fr
+    #link: https://seconde-lecture.com
     #RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
