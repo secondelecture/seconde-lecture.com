@@ -40,7 +40,7 @@ paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
   username: NemoNebbia # jekyll-seo-tag > Owners twitter username
-author: NemoNebbia # jekyll-seo-tag > default author
+author: SecondeLecture # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
   name: Nemo Nebbia # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
@@ -90,14 +90,14 @@ defaults:
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
-lang: en-GB # Set the site language
+lang: fr # Set the site language
 title: "Nemo Nebbia" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/Nemo-Nebbia_vectorise_noir.png" # Site logo, also used in jekyll-seo-tag
-description: " Bienvenue sur le site de Nemo Nebbia, vous trouverez ici toutes les infos liées à l'activité présente et passée du rappeur grenoblois. Et n'hésitez pas à nous suivre sur vos réseaux sociaux préférés !"
+description: " Bienvenue sur le site de l'association Seconde Lecture. Vous trouverez ici toutes les infos liées à l'activité présente et passée de rappeur grenoblois Nemo Nebbia et aux autres activités de l'assocation. Et n'hésitez pas à nous suivre sur vos réseaux sociaux préférés !"
 url: "https://seconde-lecture.com" # Site url, also used in jekyll-seo-tag
 baseurl: "/"
 realtive_url: "/"
-repo: "https://github.com/secondelecture/nemonebbia"
+repo: "https://github.com/secondelecture/seconde-lecture.com"
 email: "seconde.lecture@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
@@ -122,8 +122,8 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Accueil
   url: /
-- title: Actu/Breves
-  url: /blog/
+    #- title: Actu/Breves
+    #url: /blog/
 - title: Biographie
   url: /biographie/
 - title: Discographie
