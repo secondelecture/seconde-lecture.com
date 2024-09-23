@@ -92,7 +92,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: fr # Set the site language
 title: "Nemo Nebbia" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/Nemo-Nebbia_vectorise_noir.png" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/logos/logo_SL_noir.png" # Site logo, also used in jekyll-seo-tag
 description: " Bienvenue sur le site de l'association Seconde Lecture. Vous trouverez ici toutes les infos liées à l'activité présente et passée de rappeur grenoblois Nemo Nebbia et aux autres activités de l'assocation. Et n'hésitez pas à nous suivre sur vos réseaux sociaux préférés !"
 url: "https://seconde-lecture.com" # Site url, also used in jekyll-seo-tag
 baseurl: "/"
