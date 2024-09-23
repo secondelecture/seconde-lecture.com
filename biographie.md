@@ -31,7 +31,7 @@ C'est aussi à cette periode que tout change. Kaaris sort Or Noir, et moins de d
 
 {% include video.html id="y6d8LSsnLEg" %}
 
-En 2024 Nemo prepare son prochain EP : Soleil Bleu, 5 titre au court desquels il continue d'explorer ces paysages qu'on traverse en regardant les nuages, quu se contruient a l'interieur et qui finissent par accompagner nos vies.
+En 2024 Nemo prepare son prochain EP : Soleil Bleu, 5 titre au court desquels il continue d'explorer ces paysages qu'on traverse en regardant les nuages, qui se contruisent à l'interieur et finissent par accompagner nos vies.
 
 
 
