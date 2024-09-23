@@ -1,7 +1,7 @@
 ---
 title: Discographie
 feature_text: |
-feature_image: "/assets/NEMO_NEBBIA_Vents_Contraires-3000px.jpg"
+feature_image: "/assets/BANYOUTUBE.jpg"
 excerpt: "Nemo Nebbia, rap en suspension, contre vents et marées"
 aside: true
 ---
