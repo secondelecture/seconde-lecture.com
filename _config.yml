@@ -124,8 +124,8 @@ navigation_header:
   url: /
     #- title: Actu/Breves
     #url: /blog/
-- title: Biographie
-  url: /biographie/
+    #- title: Biographie
+    #  url: /biographie/
 - title: Discographie
   url: /disco/
 
@@ -133,7 +133,7 @@ navigation_footer:
 - title: Seconde Lecture
   url: https://seconde-lecture.com
 - title:  ✉️
-  url: "mailto:second point lecture (at) gmail point com"
+  url: "mailto:contact (at) seconde-lecture point com"
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/NNebbia
