@@ -12,7 +12,7 @@ Pré-commande le nouvel EP de Nemo Nebbia et tu pourras télecharger le premier 
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3720406480/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://nemonebbia.bandcamp.com/album/soleil-bleu">Soleil Bleu by Nemo Nebbia</a></iframe>
 
-Et tu peux aussi écouter et télécharger l'ensemble de la discographie de Nemo Nebbia sur [Bandcamp](https://nemonebbia.bandcamp.com) :
+L'ensemble de la discographie de Nemo Nebbia est toujours disponible sur [Bandcamp](https://nemonebbia.bandcamp.com) :
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2299354902/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://nemonebbia.bandcamp.com/album/vents-contraires">Vents Contraires by Nemo Nebbia</a></iframe>
 
